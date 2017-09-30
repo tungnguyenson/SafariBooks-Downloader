@@ -1,3 +1,7 @@
+Forked from `nicohaenggi/SafariBooks-Downloader` and added Slackbot integration
+
+---
+
 # SafariBooks Downloader & ePub Generator
 SafariBooks-Downloader is a project created and maintained by [Nico Haenggi](http://www.nicohaenggi.com/).
 
