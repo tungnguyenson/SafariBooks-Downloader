@@ -2,7 +2,7 @@ Forked from `nicohaenggi/SafariBooks-Downloader` and added Slackbot integration
 
 Demo:
 
-![Screenshot](https://i.imgur.com/FuCJOwa.png =400x)
+![Screenshot](https://i.imgur.com/FuCJOwa.png)
 
 
 ---
