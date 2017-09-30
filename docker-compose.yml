@@ -1,0 +1,9 @@
+version: '3'
+services:
+    web:
+        image: nginx:latest
+        container_name: ebook
+        ports:
+            - "8052:80"
+        volumes:
+            - ./books:/usr/share/nginx/html
