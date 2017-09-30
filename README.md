@@ -1,5 +1,10 @@
 Forked from `nicohaenggi/SafariBooks-Downloader` and added Slackbot integration
 
+Demo:
+
+![Screenshot](https://i.imgur.com/4Bhk2ro.png "Screenshot")
+
+
 ---
 
 # SafariBooks Downloader & ePub Generator
