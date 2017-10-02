@@ -9,7 +9,7 @@ node lib/bot/slack.js
 or with pm2
 
 ```
-pme start lib/bot/slack.js
+pm2 start lib/bot/slack.js
 ```
 
 
