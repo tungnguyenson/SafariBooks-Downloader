@@ -1,5 +1,18 @@
 Forked from `nicohaenggi/SafariBooks-Downloader` and added Slackbot integration
 
+Command to start bot:
+
+```
+node lib/bot/slack.js
+```
+
+or with pm2
+
+```
+pme start lib/bot/slack.js
+```
+
+
 Demo:
 
 ![Screenshot](https://i.imgur.com/FuCJOwa.png)
